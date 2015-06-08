@@ -10,7 +10,7 @@ import (
 	"log/syslog"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/Sirupsen/logrus/hooks/defaultfields"
+	"github.com/redmoxie/defaultfields"
 )
 
 func main() {
