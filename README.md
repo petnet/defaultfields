@@ -9,7 +9,7 @@ and you want to identify where a particular event originated.
 import (
 	"log/syslog"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/redmoxie/defaultfields"
 )
 
